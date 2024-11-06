@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/bifravst/cloudformation-cleaner#readme",
   "devDependencies": {
-    "@aws-sdk/client-cloudformation": "3.682.0",
-    "@aws-sdk/client-lambda": "3.682.0",
+    "@aws-sdk/client-cloudformation": "3.686.0",
+    "@aws-sdk/client-lambda": "3.686.0",
     "@bifravst/eslint-config-typescript": "6.1.18",
     "@bifravst/prettier-config": "1.1.1",
     "@commitlint/config-conventional": "19.5.0",
@@ -71,10 +71,10 @@
     ]
   },
   "dependencies": {
-    "@aws-sdk/client-cloudwatch-logs": "3.682.0",
-    "@aws-sdk/client-iam": "3.682.0",
-    "@aws-sdk/client-s3": "3.685.0",
-    "@aws-sdk/client-ssm": "3.682.0",
+    "@aws-sdk/client-cloudwatch-logs": "3.686.0",
+    "@aws-sdk/client-iam": "3.686.0",
+    "@aws-sdk/client-s3": "3.686.0",
+    "@aws-sdk/client-ssm": "3.686.0",
     "@bifravst/cloudformation-helpers": "9.1.1",
     "@bifravst/from-env": "3.0.2"
   },
