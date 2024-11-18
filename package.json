@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/bifravst/cloudformation-cleaner#readme",
   "devDependencies": {
-    "@aws-sdk/client-cloudformation": "3.693.0",
+    "@aws-sdk/client-cloudformation": "3.695.0",
     "@aws-sdk/client-lambda": "3.693.0",
     "@bifravst/eslint-config-typescript": "6.1.18",
     "@bifravst/prettier-config": "1.1.1",
