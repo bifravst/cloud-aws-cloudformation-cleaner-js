@@ -26,7 +26,7 @@
     "@aws-sdk/client-lambda": "3.693.0",
     "@bifravst/eslint-config-typescript": "6.1.18",
     "@bifravst/prettier-config": "1.1.1",
-    "@commitlint/config-conventional": "19.5.0",
+    "@commitlint/config-conventional": "19.6.0",
     "@swc/cli": "0.5.1",
     "@swc/core": "1.9.2",
     "@types/glob": "8.1.0",
