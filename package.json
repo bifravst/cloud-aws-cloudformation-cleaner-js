@@ -24,7 +24,7 @@
   "devDependencies": {
     "@aws-sdk/client-cloudformation": "3.699.0",
     "@aws-sdk/client-lambda": "3.699.0",
-    "@bifravst/eslint-config-typescript": "6.1.18",
+    "@bifravst/eslint-config-typescript": "6.1.19",
     "@bifravst/prettier-config": "1.1.1",
     "@commitlint/config-conventional": "19.6.0",
     "@swc/cli": "0.5.1",
